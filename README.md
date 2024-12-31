@@ -24,7 +24,7 @@
 
 
 # 🚀Operating System 👨‍💻:
-<p align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a></p>
+<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a></p>
 
 
 # ✍️ Random Dev Quote
@@ -34,11 +34,10 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanK-17&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanK-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanK-17&theme=dark&hide_border=false" alt="GitHub Streak" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanK-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanK-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohanK-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
