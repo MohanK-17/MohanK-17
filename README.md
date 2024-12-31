@@ -34,8 +34,8 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanK-17&theme=dark&hide_border=false" alt="GitHub Streak" style="height: 200px;width: 400px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanK-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;width: 400px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanK-17&theme=dark&hide_border=false" alt="GitHub Streak" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanK-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
 </div>
 
 
