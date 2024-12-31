@@ -28,7 +28,8 @@
 
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dracula)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dracula" alt="Random Dev Quote" style="max-width: 100%; height: auto;">
+
 
 # 📊 GitHub Stats:
 
